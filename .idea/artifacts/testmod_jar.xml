@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="testmod.jar">
+    <output-path>$PROJECT_DIR$/mods</output-path>
+    <root id="archive" name="MinecraftServer.jar">
+      <element id="module-output" name="MinecraftServer" />
+    </root>
+  </artifact>
+</component>
